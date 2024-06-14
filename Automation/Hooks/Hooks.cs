@@ -5,7 +5,7 @@ using OpenQA.Selenium;
 
 
 
-namespace Automation_Part_Two.Hooks
+namespace AutomationSpecflow.Hooks
 {
     [Binding]
     public sealed class Hooks

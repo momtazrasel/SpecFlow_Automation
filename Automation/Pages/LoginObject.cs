@@ -2,7 +2,7 @@
 using OpenQA.Selenium;
 
 
-namespace Automation_Part_Two.Pages
+namespace AutomationSpecflow.Pages
 {
     public class LoginObject
     {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutomationSpecflow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54caaea01d70f1bc6e0732b4ff9a25a73ee1e7ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7141bfcc7e7e5692bd300924de0496429d8c9621")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutomationSpecflow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutomationSpecflow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

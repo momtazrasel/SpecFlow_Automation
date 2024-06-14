@@ -1,8 +1,9 @@
-﻿using Automation_Part_Two.Pages;
+﻿
+using AutomationSpecflow.Pages;
 using OpenQA.Selenium;
 
 
-namespace Automation_Part_Two.StepDefinitions
+namespace AutomationSpecflow.StepDefinitions
 {
     [Binding]
     public class LogoutStepDefinitions

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Automation",
+    "\\Automation\\StepDefinitions"
   ],
-  "SelectedNode": "\\SpecflowAutomation.sln",
+  "SelectedNode": "\\Automation\\StepDefinitions\\LogoutStepDefinitions.cs",
   "PreviewInSolutionExplorer": false
 }

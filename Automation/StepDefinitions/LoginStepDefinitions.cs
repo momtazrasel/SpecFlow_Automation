@@ -1,8 +1,8 @@
 
 using OpenQA.Selenium;
-using Automation_Part_Two.Pages;
+using AutomationSpecflow.Pages;
 
-namespace Automation_Part_Two.StepDefinitions
+namespace AutomationSpecflow.StepDefinitions
 {
     [Binding]
     public sealed class LoginStepDefinitions
